@@ -1,0 +1,82 @@
+{
+    "apple": [
+        {
+            "name": "Apple iphone 11 pro max",
+            "price": "400",
+            "description": "Apple will bring its new iPhone 14 which has got a moniker Pro Max at the end. The American smartphone company Apple is working on the next-generation device. The leaks come from Jon Prosser, who said that Apple will introduce its new series of phones in 2022. The coming smartphone will be called Apple iPhone 14 Pro Max. The handset got a Chipset of Apple A16 Bionic which is the most powerful chipset and to give more power to this device it has a 3.1 GHz Hexa Core processor inside the Apple's iPhone 14 Pro Max to make the",
+            "image": "https://media.sketchfab.com/models/0a8de332cc1c4184800419015799c95c/thumbnails/06b7dc43bd2947b3bd25e7ff7b9d2b33/5c48102816a842f7b819821e3ddeb660.jpeg"
+        },
+        {
+            "name": "Apple iPhone 14 Pro",
+            "price": "500",
+            "description": "Apple iPhone 14 Pro - A Pro Variant Of A iPhone Apple is working on its new iPhone 14 which has got a new Pro variant. The Apple analyst Ming-Chi Kuo's latest research about its next generation of a smartphone, that it has some big changes. The coming smartphone of the company will be called Apple iPhone 14 Pro. The smartphone got a Chipset of Apple A15 Bionic which is the most powerful chipset and to give more power to this device it has a 3.22 GHz Hexa Core processor inside th",
+            "image": "https://p.turbosquid.com/ts-thumb/hC/ARYOQl/r1/10000/jpg/1663005020/600x600/fit_q87/1503eea3cdd22d002362bba26e15875d8b942020/10000.jpg"
+        },
+        {
+            "name": "Apple iPhone 15 Pro",
+            "price": "600",
+            "description": "Apple is going to unveil iPhone 15 series with the high-end 15 Pro Max variant. Considering that it will be the flagship model of the series, it will have the latest and highest specifications. It is expected to have the latest processor, more RAM, a bigger battery, and a better camera system. It will also have a larger display and support 5G connectivity. Apple's iPhone 15 Pro Max is circulating on the internet, and according to the latest leaked information, the device will feature thinner bezels than its predecessors. The Apple iPhone 15 Pro Max's",
+            "image": "https://media.sketchfab.com/models/05dfc991665e45c68c8b7062136c0c6e/thumbnails/87d2766daed5464a8c93954e70fac6db/433deef476494019bb27e0b4296259b9.jpeg"
+        }
+    ],
+    "samsung": [
+        {
+            "name": "Samsung Galaxy Z Fold",
+            "price": "360",
+            "description": "Samsung will bring the new Galaxy Z 5 Fold in near future. We learned from a Korean blog that Samsung is already working on a foldable smartphone, which will be Samsung's Galaxy Z Fold 5. Furthermore, we will share the exciting features and specifications with you today. Let's expose this beast. As we know there will be massive dual Foldable Dynamic AMOLED 2X Capacitive Touchscreen screens on this Samsung Z Fold 5. Screen size may be 7.6 inches, which will support a full HD+ resolution of 1812 x 2176 pixels. The display is",
+            "image": "https://p.turbosquid.com/ts-thumb/Kw/xYDyMf/ma/samsung_galaxy_z_fold5_v2/jpg/1692183570/1920x1080/turn_fit_q99/3cc04b3e936f0ab087681b21f3e677d7d361db5d/samsung_galaxy_z_fold5_v2-1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 6",
+            "price": "430",
+            "description": "Samsung is gearing up the Galaxy Z series by adding the new Fold 6 smartphone, which will be launched very soon, to take on the tough competition that is rising in the foldable market. We all know that Samsung's Galaxy Z Fold 6 will also be a foldable smartphone with some of the unique features and specifications that make it stand out from the other foldable smartphones on the market today. The whole new Samsung Galaxy's Z Fold 6 side will land with an enormous 7.6-inch foldable dynamic AMOLED 2X capacitive touchscreen display that can support the high resolution of 1856 x 2160 pixels with some extra features such as the 120Hz refresh rate,",
+            "image": "https://p.turbosquid.com/ts-thumb/no/sFiZrU/UM/preview0000/png/1721249428/1920x1080/fit_q87/6c0f31c93f892c18176e013a5e962c7221261315/preview0000.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 4 ",
+            "price": "500",
+            "description": "Samsung has launched the new Galaxy Z variant with 12GB of RAM. The Fold 4 has a lot to offer in terms of features. Firstly, we will discuss the display of this flagship smartphone, it comes with a massive 7.6 Inches Foldable Dynamic AMOLED 2X Capacitive Touchscreen that is both durable and slim. With an 1812 x 2176 pixels resolution and 120Hz refresh rate, Samsung Z Fold offers unbeatable display quality. A layer of Corning Gorilla Glass Victus+ is also present to protect the display on both sides of them. The Samsung Galaxy Z's a",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        }
+    ],
+    "nokia": [
+        {
+            "name": "Samsung Galaxy Z Fold",
+            "price": "200",
+            "description": "Samsung will bring the new Galaxy Z 5 Fold in near future. We learned from a Korean blog that Samsung is already working on a foldable smartphone, which will be Samsung's Galaxy Z Fold 5. Furthermore, we will share the exciting features and specifications with you today. Let's expose this beast. As we know there will be massive dual Foldable Dynamic AMOLED 2X Capacitive Touchscreen screens on this Samsung Z Fold 5. Screen size may be 7.6 inches, which will support a full HD+ resolution of 1812 x 2176 pixels. The display is",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 6",
+            "price": "100",
+            "description": "Samsung is gearing up the Galaxy Z series by adding the new Fold 6 smartphone, which will be launched very soon, to take on the tough competition that is rising in the foldable market. We all know that Samsung's Galaxy Z Fold 6 will also be a foldable smartphone with some of the unique features and specifications that make it stand out from the other foldable smartphones on the market today. The whole new Samsung Galaxy's Z Fold 6 side will land with an enormous 7.6-inch foldable dynamic AMOLED 2X capacitive touchscreen display that can support the high resolution of 1856 x 2160 pixels with some extra features such as the 120Hz refresh rate,",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 4 ",
+            "price": "330",
+            "description": "Samsung has launched the new Galaxy Z variant with 12GB of RAM. The Fold 4 has a lot to offer in terms of features. Firstly, we will discuss the display of this flagship smartphone, it comes with a massive 7.6 Inches Foldable Dynamic AMOLED 2X Capacitive Touchscreen that is both durable and slim. With an 1812 x 2176 pixels resolution and 120Hz refresh rate, Samsung Z Fold offers unbeatable display quality. A layer of Corning Gorilla Glass Victus+ is also present to protect the display on both sides of them. The Samsung Galaxy Z's a",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        }
+    ],
+    "Q-Mobile": [
+        {
+            "name": "Samsung Galaxy Z Fold",
+            "price": "400",
+            "description": "Samsung will bring the new Galaxy Z 5 Fold in near future. We learned from a Korean blog that Samsung is already working on a foldable smartphone, which will be Samsung's Galaxy Z Fold 5. Furthermore, we will share the exciting features and specifications with you today. Let's expose this beast. As we know there will be massive dual Foldable Dynamic AMOLED 2X Capacitive Touchscreen screens on this Samsung Z Fold 5. Screen size may be 7.6 inches, which will support a full HD+ resolution of 1812 x 2176 pixels. The display is",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 6",
+            "price": "360",
+            "description": "Samsung is gearing up the Galaxy Z series by adding the new Fold 6 smartphone, which will be launched very soon, to take on the tough competition that is rising in the foldable market. We all know that Samsung's Galaxy Z Fold 6 will also be a foldable smartphone with some of the unique features and specifications that make it stand out from the other foldable smartphones on the market today. The whole new Samsung Galaxy's Z Fold 6 side will land with an enormous 7.6-inch foldable dynamic AMOLED 2X capacitive touchscreen display that can support the high resolution of 1856 x 2160 pixels with some extra features such as the 120Hz refresh rate,",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold 4 ",
+            "price": "420",
+            "description": "Samsung has launched the new Galaxy Z variant with 12GB of RAM. The Fold 4 has a lot to offer in terms of features. Firstly, we will discuss the display of this flagship smartphone, it comes with a massive 7.6 Inches Foldable Dynamic AMOLED 2X Capacitive Touchscreen that is both durable and slim. With an 1812 x 2176 pixels resolution and 120Hz refresh rate, Samsung Z Fold offers unbeatable display quality. A layer of Corning Gorilla Glass Victus+ is also present to protect the display on both sides of them. The Samsung Galaxy Z's a",
+            "image": "https://p.turbosquid.com/ts-thumb/p8/fuMRms/KS/shzfo4b/jpg/1660079489/1920x1080/turn_fit_q99/c562cfaba2290ff36f187bef8071f7069e6a6950/shzfo4b-1.jpg"
+        }
+    ]
+}

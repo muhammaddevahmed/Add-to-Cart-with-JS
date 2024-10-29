@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Shopping Cart</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+    <style>
+        body {
+            font-size: 1.25rem;
+            background-color: darkgray;
+
+        }
+
+        h1,
+        h2 {
+            text-align: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: none;
+            padding: 0;
+        }
+
+        .table {
+            width: 100%;
+        }
+
+        .table-responsive {
+            overflow-x: auto;
+        }
+
+        th,
+        td {
+            padding: 15px;
+            text-align: center;
+
+        }
+
+        th {
+            font-size: 1.5rem;
+        }
+
+        td {
+            font-size: 1.25rem;
+        }
+
+        img {
+            width: 70%;
+            max-width: 500px;
+            height: auto;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .btn-info,
+        .btn-danger {
+            font-size: 1.2rem;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+
+        /* Responsive Styles */
+        @media (max-width: 1200px) {
+            img {
+                max-width: 400px;
+            }
+
+            th {
+                font-size: 1.3rem;
+            }
+
+            td {
+                font-size: 1.15rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            img {
+                max-width: 300px;
+            }
+
+            th,
+            td {
+                font-size: 1.1rem;
+            }
+
+            .btn-info,
+            .btn-danger {
+                font-size: 1rem;
+                padding: 10px;
+                width: 100%;
+                box-sizing: border-box;
+            }
+        }
+
+        @media (max-width: 576px) {
+            img {
+                max-width: 300px;
+            }
+
+            th,
+            td {
+                font-size: 0.8rem;
+            }
+
+            .btn-info,
+            .btn-danger {
+                font-size: 0.5rem;
+                padding: 6px;
+                width: 100%;
+                box-sizing: border-box;
+            }
+
+            #grandTotal {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-3 width-full">
+        <h1>Your Shopping Cart</h1>
+        <div class="table-responsive">
+            <table class="table table-success">
+                <thead>
+                    <tr>
+                        <th scope="col">Product</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Total</th>
+                        <th scope="col" colspan="2">Action</th>
+                    </tr>
+                </thead>
+                <tbody id="dataTable"></tbody>
+            </table>
+            <h2>Grand Total: <span id="grandTotal">0.00 Rs</span></h2>
+        </div>
+    </div>
+    <div id="mod"></div>
+    <!-- Bootstrap JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+
+
+
+    <script src="new.js"></script>
+</body>
+
+</html>
